@@ -1,1 +1,1 @@
-# BEVPerception-Survey-Recipe
+:microphone: : The official codebase of **BEVPerception-Survey-Recipe** was transfered to [OpenDriveLab/BEVPerception-Survey-Recipe](https://github.com/OpenDriveLab/BEVPerception-Survey-Recipe) for better follow-up maintenance!
